@@ -2,7 +2,7 @@
 	"TargetName" : "EscapeRoomEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "0c2cc4e9-084e-49b6-965a-ead2d1a051eb",
+	"BuildId" : "a54ef1d7-0f3a-4c7f-aa6d-e09bff66629b",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -15,15 +15,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeRoom-2078.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeRoom-4743.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeRoom-2078.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-EscapeRoom-4743.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-EscapeRoom-2078.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-EscapeRoom-4743.lib",
 			"Type" : "ImportLibrary"
 		}
 	],
