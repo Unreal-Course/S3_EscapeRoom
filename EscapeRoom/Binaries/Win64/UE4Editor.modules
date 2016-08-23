@@ -1,8 +1,8 @@
 {
 	"Changelist" : 3039270,
-	"BuildId" : "",
+	"BuildId" : "0c2cc4e9-084e-49b6-965a-ead2d1a051eb",
 	"Modules" : 
 	{
-		"EscapeRoom" : "UE4Editor-EscapeRoom-1068.dll"
+		"EscapeRoom" : "UE4Editor-EscapeRoom-361.dll"
 	}
 }
