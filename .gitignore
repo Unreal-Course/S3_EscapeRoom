@@ -63,4 +63,9 @@ DerivedDataCache/*
 EscapeRoom/Intermediate/
 EscapeRoom/Content/StarterContent/Textures
 EscapeRoom/Content/StarterContent/HDRI
+EscapeRoom/Saved/StagedBuilds
 *.VC.db
+EscapeRoom/Saved/Cooked/
+EscapeRoom/Binaries/
+EscapeRoom/Saved/Backup/
+EscapeRoom/Saved/Collections/
