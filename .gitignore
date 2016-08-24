@@ -61,5 +61,6 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 EscapeRoom/Intermediate/
-EscapeRoom/Content/StarterContent/
+EscapeRoom/Content/StarterContent/Textures
+EscapeRoom/Content/StarterContent/HDRI
 *.VC.db
